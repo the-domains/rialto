@@ -1,7 +1,7 @@
 name: Rialto
 favicon: null
-layout_spectrum: 0.8633253786247224
-typography_spectrum: 0.13675924320705235
+layout_spectrum: 1
+typography_spectrum: 0.73312
 title: 'Thought-filled communications strategies & tactics. '
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#65a6d3'
     - '#99c3e2'
   brandStrength: 0
-  lightness: 0.4738358536269516
-  saturation: 0.5570815161336213
-  rhythmicContrast: 0.0968609731644392
+  lightness: 0.375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Thought-filled communications strategies & tactics. ]]></title>
         <description><![CDATA[Thought-filled communications strategies & tactics. ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rialto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 07:46:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 08:09:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rialto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Homepage]]></title>
             <description><![CDATA[<article><h1>Homepage</h1><p>Overview</p></article>]]></description>
-            <link>undefinedhomepage/index.html</link>
+            <link>https://thegrid.ai/rialto/homepage/index.html</link>
             <guid isPermaLink="false">ab48fe89-4039-4b28-9ff8-f139565dd9fb</guid>
-            <pubDate>Thu, 12 Nov 2015 07:45:53 GMT</pubDate>
+            <pubDate>Thu, 12 Nov 2015 08:09:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,23 @@
+name: Rialto
+favicon: null
+layout_spectrum: 0.8633253786247224
+typography_spectrum: 0.13675924320705235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9207028003875166
+  lightness: 0.4738358536269516
+  saturation: 0.5570815161336213
+  rhythmicContrast: 0.0968609731644392
+purpose: []
